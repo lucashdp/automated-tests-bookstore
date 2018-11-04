@@ -1,0 +1,24 @@
+{
+  "name": "automated-tests-bookstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucashdp/automated-tests-bookstore.git"
+  },
+  "author": "Lucas Duarte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucashdp/automated-tests-bookstore/issues"
+  },
+  "homepage": "https://github.com/lucashdp/automated-tests-bookstore#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "request": "^2.88.0",
+    "should": "^13.2.3"
+  }
+}
