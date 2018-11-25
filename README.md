@@ -8,7 +8,7 @@ Automated-tests-bookstore its a test block for the virtual-bookstore microservic
 ## Install and Run this app
 
 - Clone the project:
-    git clone https://github.com/lucashdp/bookstore-audit
+    git clone https://github.com/lucashdp/automated-tests-bookstore
 
 - Execute the command line (install dependences):
     npm install
