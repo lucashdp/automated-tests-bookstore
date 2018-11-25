@@ -32,7 +32,8 @@ describe("Teste API de favoritos", function () {
                 url: urlBase + "/favorites",
                 form: {
                     favorite: {
-                        userId: "5bb0e0ddfsdfsdfa9cb23d50"
+                        userId: "5bb0e0ddfsdfsdfa9cb23d50",
+                        bookId: "5bb0e0ddcb23d50"
                     }
                 }
             },
