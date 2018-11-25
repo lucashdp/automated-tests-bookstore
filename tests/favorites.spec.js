@@ -2,7 +2,7 @@ var should = require("should");
 var request = require("request");
 var chai = require("chai");
 var expect = chai.expect;
-var urlBase = "https://virtual-bookstore-lucashdp.herokuapp.com/v1/public";
+var urlBase = "http://localhost:8000/v1/public";
 
 describe("Teste API de favoritos", function () {
     it("Deve receber os favoritos", function (done) {
